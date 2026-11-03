@@ -20,6 +20,7 @@ Our university library uses manual records or an old system to manage books, mem
 - The library has a fixed loan period and fine rule.
 - Book records are entered into the catalogue by the librarian.
 - Users have internet access and a web browser.
+- The university provides a list of valid students and staff.
 
 ## Constraints
 - The system must follow the university's library rules, such as loan period, fines and borrowing limits.
