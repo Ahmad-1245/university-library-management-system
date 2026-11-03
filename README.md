@@ -16,14 +16,18 @@ Our university library uses manual records or an old system to manage books, mem
 **Out of scope:** building the full software, payments, connecting to other university systems.
 
 ## Assumptions
-- Every member has a unique ID.
-- The library has a fixed loan period.
+- Every member (student, faculty, staff) has a unique ID.
+- The library has a fixed loan period and fine rule.
+- Book records are entered into the catalogue by the librarian.
 - Users have internet access and a web browser.
 
 ## Constraints
-- We must finish before the deadline.
-- Only three team members, working part-time.
-- We only use free tools (GitHub, Figma, diagrams.net).
+- The system must follow the university's library rules, such as loan period, fines and borrowing limits.
+- Only authorised library staff can add books, issue books and change records.
+- Member and loan data must be kept private and secure.
+- The system must work with the library's existing book and member records.
+- The system should be easy to use for students and staff with basic computer skills.
+- The first version covers only the core functions: books, members, borrowing, returns, reservations and overdue notices.
 
 ## Team
 | Name | GitHub | Role |
