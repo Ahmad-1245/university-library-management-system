@@ -28,7 +28,7 @@ Our university library uses manual records or an old system to manage books, mem
 ## Team
 | Name | GitHub | Role |
 |---|---|---|
-| Your name | Ahmad-1245 | Repository and planning |
+| Muhammad Ahmad | Ahmad-1245 | Repository and planning |
 | Member 2 | username | Requirements |
 | Member 3 | username | Diagrams and prototype |
 
