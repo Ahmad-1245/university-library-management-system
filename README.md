@@ -31,7 +31,7 @@ Our university library uses manual records or an old system to manage books, mem
 - The first version covers only the core functions: books, members, borrowing, returns, reservations and overdue notices.
 
 ## Team
-| Name | GitHub | Role |
+| Name | GitHub | Role | |Registration Numbers| 
 |---|---|---|
 | Muhammad Ahmad | Ahmad-1245 | Repository and planning | |REGNO:25MDSE052 |
 | Ali Hassan |  | Requirements | |REGNO:25MDSE0|
