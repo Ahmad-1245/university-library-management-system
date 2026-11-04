@@ -33,9 +33,9 @@ Our university library uses manual records or an old system to manage books, mem
 ## Team
 | Name | GitHub | Role |
 |---|---|---|
-| Muhammad Ahmad | Ahmad-1245 | Repository and planning |
-| Ali Hassan |  | Requirements |
-| Member 3 | username | Diagrams and prototype |
+| Muhammad Ahmad | Ahmad-1245 | Repository and planning | |REGNO:25MDSE052 |
+| Ali Hassan |  | Requirements | |REGNO:25MDSE0|
+| Muhammad Sami Khan | sami-bit-bot | Diagrams and prototype | |REGNO:25MDSE026 |
 
 ## Folders
 - `requirements/` – SRS and user stories
