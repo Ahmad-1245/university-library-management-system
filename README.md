@@ -34,7 +34,7 @@ Our university library uses manual records or an old system to manage books, mem
 | Name | GitHub | Role | |Registration Numbers| 
 |---|---|---|
 | Muhammad Ahmad | Ahmad-1245 | Repository and planning | |REGNO:25MDSE052 |
-| Ali Hassan | alihassan2006uet-dotcom | Requirements | |REGNO:25MDSE0|
+| Ali Hassan | alihassan2006uet-dotcom | Requirements | |REGNO:25MDSE022|
 | Muhammad Sami Khan | sami-bit-bot | Diagrams and prototype | |REGNO:25MDSE026 |
 
 ## Folders
