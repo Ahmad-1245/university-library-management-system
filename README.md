@@ -31,11 +31,11 @@ Our university library uses manual records or an old system to manage books, mem
 - The first version covers only the core functions: books, members, borrowing, returns, reservations and overdue notices.
 
 ## Team
-| Name | GitHub | Role | |Registration Numbers| 
-|---|---|---|
-| Muhammad Ahmad | Ahmad-1245 | Repository and planning | |REGNO:25MDSE052 |
-| Ali Hassan | alihassan2006uet-dotcom | Requirements | |REGNO:25MDSE022|
-| Muhammad Sami Khan | sami-bit-bot | Diagrams and prototype | |REGNO:25MDSE026 |
+| Name | GitHub | Role | Registration No. |
+|---|---|---|---|
+| Muhammad Ahmad | Ahmad-1245 | Repository and planning | 25MDSE052 |
+| Ali Hassan | alihassan2006uet-dotcom | Requirements | 25MDSE022 |
+| Muhammad Sami Khan | sami-bit-bot | Diagrams and prototype | 25MDSE026 |
 
 ## Folders
 - `requirements/` – SRS and user stories
